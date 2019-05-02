@@ -411,7 +411,7 @@ function submitLoginUser(event)
     }
 	
 	
-	window.location.href = webRoot + '/main.html';//'file:///C:/Users/ariel/School/poosd/microlearning/website/main.html';
+	window.location.href = webRoot + '/main.html';
 	document.getElementById("myForm").reset();
 	return;
 	
@@ -425,5 +425,5 @@ function signOut()
     userId = 0;
 	localStorage.setItem("currentUsername", null);
     window.name = '';
-    window.location.href = webRoot + '/index.html';//'file:///C:/Users/ariel/School/poosd/microlearning/website/index.html';
+    window.location.href = webRoot + '/index.html';
 }
