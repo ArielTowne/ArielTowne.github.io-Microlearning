@@ -1,5 +1,5 @@
-var APIRoot = "http://www.micro-learn.xyz/php";
-var webRoot = "http://www.micro-learn.xyz";//file:///C:/Users/ariel/School/poosd/microlearning/website
+var APIRoot = "https://arieltowne.github.io/Microlearning/";
+var webRoot = "https://arieltowne.github.io/Microlearning/";
 var fileExtension = ".php";
 var userInfo = new Object();
 var userId = 0;
