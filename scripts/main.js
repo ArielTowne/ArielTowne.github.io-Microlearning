@@ -1,5 +1,5 @@
 var APIRoot = "https://arieltowne.github.io/Microlearning/php";
-var webRoot = "https://arieltowne.github.io/Microlearning/";
+var webRoot = "https://arieltowne.github.io/Microlearning";
 var fileExtension = ".php";
 var userInfo = new Object();
 var userId = 0;
