@@ -1,1 +1,1 @@
-contain all the JavaScript code used to add interactive functionality to your site (e.g. buttons that load data when clicked)
+Contains all the JavaScript code used to add interactive functionality to your site (e.g. buttons that load data when clicked)
