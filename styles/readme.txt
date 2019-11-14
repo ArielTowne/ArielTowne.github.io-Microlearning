@@ -1,1 +1,1 @@
-contain the CSS code used to style your content (for example, setting text and background colors)
+Contains the CSS code used to style the content (for example, setting text and background colors).
